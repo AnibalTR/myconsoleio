@@ -16,7 +16,7 @@ public class Journal {
         this.setJournalText(jT);
         this.setJournalDate(jD);
     }
-
+// this is a test
     public String getJournalText() {
         return journalText;
     }
